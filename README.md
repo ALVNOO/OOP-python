@@ -3,13 +3,13 @@
 Laporan 
 Muhammad Alvino
 
-1. Konsep
+##1. Konsep
 ![concept](https://github.com/user-attachments/assets/5a4364d4-7ac1-4694-89ee-26e206437200)
 
 Konsep ini menunjukkan struktur pewarisan dalam OOP, di mana "Toko" berperan sebagai parent class dan "Buku", "Majalah", serta "Koran" sebagai child class yang mewarisi atributnya. 
 
 
-2. Class Diagram
+##2. Class Diagram
 ![Class](https://github.com/user-attachments/assets/fae1198a-6761-412d-85dd-277df2d8f770)
 
 penerapan prinsip pewarisan (inheritance) dalam pemrograman berorientasi objek (OOP).
@@ -19,7 +19,7 @@ penerapan prinsip pewarisan (inheritance) dalam pemrograman berorientasi objek (
 - TokoManager berfungsi untuk mengelola daftar item.
 
 
-3. Usecase Diagram
+##3. Usecase Diagram
 ![usecase](https://github.com/user-attachments/assets/554e19bb-ee00-441f-bcda-80c4dffdc6e6)
 
 Use case diagram di atas menggambarkan interaksi antara aktor Admin dengan sistem yang memiliki empat fungsi utama, yaitu:
@@ -29,7 +29,7 @@ Use case diagram di atas menggambarkan interaksi antara aktor Admin dengan siste
 - Keluar Program : Admin memiliki opsi untuk keluar dari sistem atau menutup aplikasi.
 
 
-4. Sequence Diagram
+##4. Sequence Diagram
 ![sequence](https://github.com/user-attachments/assets/5f33ade9-2444-48a1-9aa1-0192a98fe3cf)
 
 interaksi antara tiga entitas utama: Admin, Sistem, dan Item dalam suatu proses manajemen item
