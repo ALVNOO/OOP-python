@@ -7,6 +7,7 @@
 ---
 
 ##  1. Konsep 
+https://excalidraw.com/#json=JaqPRZTlpBP3thhSGg0I3,mRic8CxKSKdQP8urLInvDQ 
 ![concept](https://github.com/user-attachments/assets/5a4364d4-7ac1-4694-89ee-26e206437200)
 
 Konsep ini menunjukkan struktur pewarisan dalam OOP, di mana "Toko" berperan sebagai parent class dan "Buku", "Majalah", serta "Koran" sebagai child class yang mewarisi atributnya. 
