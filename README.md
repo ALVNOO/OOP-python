@@ -73,3 +73,10 @@ interaksi antara tiga entitas utama: Admin, Sistem, dan Item dalam suatu proses 
 - Lihat Semua : Admin meminta untuk melihat semua item yang tersedia dalam sistem
 - Menampilkan Info :  Sistem mengirimkan semua informasi item yang diperoleh ke Admin
 
+---
+
+## 4. CLI apps
+![CLI](https://github.com/user-attachments/assets/997b6c96-2ce7-416e-bf62-48a0c5713bcf)
+
+
+
