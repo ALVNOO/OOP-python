@@ -8,14 +8,14 @@
 
 ##  1. Konsep 
 https://excalidraw.com/#json=JaqPRZTlpBP3thhSGg0I3,mRic8CxKSKdQP8urLInvDQ 
-![concept](https://github.com/user-attachments/assets/5a4364d4-7ac1-4694-89ee-26e206437200)
+![class diagram](https://github.com/user-attachments/assets/7e4a9a22-a30f-4c73-ad68-cf92771065ff)
 
 Konsep ini menunjukkan struktur pewarisan dalam OOP, di mana "Toko" berperan sebagai parent class dan "Buku", "Majalah", serta "Koran" sebagai child class yang mewarisi atributnya. 
 
 ---
 
 ## 2. Class Diagram
-![Class](https://github.com/user-attachments/assets/fae1198a-6761-412d-85dd-277df2d8f770)
+![class diagram](https://github.com/user-attachments/assets/4b109cd8-b816-4dc2-80d6-93ab8401f534)
 
 penerapan prinsip pewarisan (inheritance) dalam pemrograman berorientasi objek (OOP).
 
@@ -54,7 +54,7 @@ penerapan prinsip pewarisan (inheritance) dalam pemrograman berorientasi objek (
 ---
 
 ## 3. Usecase Diagram
-![usecase](https://github.com/user-attachments/assets/554e19bb-ee00-441f-bcda-80c4dffdc6e6)
+![usecase](https://github.com/user-attachments/assets/ee1a2b01-df74-4750-bc07-5a8464f01fd8)
 
 Use case diagram di atas menggambarkan interaksi antara aktor Admin dengan sistem yang memiliki empat fungsi utama, yaitu:
 - Tambah Item : Admin dapat menambahkan item baru ke dalam sistem.
@@ -65,7 +65,8 @@ Use case diagram di atas menggambarkan interaksi antara aktor Admin dengan siste
 ---
 
 ## 4. Sequence Diagram
-![sequence](https://github.com/user-attachments/assets/5f33ade9-2444-48a1-9aa1-0192a98fe3cf)
+![sequence](https://github.com/user-attachments/assets/3a5a3c0c-e3cc-4fdd-bf27-35996095ba23)
+
 
 interaksi antara tiga entitas utama: Admin, Sistem, dan Item dalam suatu proses manajemen item
 - Pilih Menu : Admin memilih menu yang tersedia dalam sistem
